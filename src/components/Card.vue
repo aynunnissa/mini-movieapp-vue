@@ -61,7 +61,7 @@ export default {
 }
 
 .carousel__item__poster {
-  background-color: blue;
+  background-color: #293241;;
   height: 85%;
   width: 100%;
   border-radius: 5px;
